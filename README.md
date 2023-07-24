@@ -38,6 +38,8 @@ This is a simple Tic-Tac-Toe game built using React. It allows two players to pl
 
 ## Project Deployment
 
-The web-app is deployed [here](https://tic-tac-toe-git-main-vaiibhavgupta.vercel.app/).
+The web-app is deployed [here](https://tic-tac-toe-vaiibhavgupta.vercel.app).
+
+
 
 
