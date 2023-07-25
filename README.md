@@ -22,11 +22,11 @@ This is a simple Tic-Tac-Toe game built using React. It allows two players to pl
 ## Installation
 1. Clone the repository.
 
-   `git clone https://github.com/vaiibhavgupta/web_development_projects.git`
+   `git clone https://github.com/vaiibhavgupta/tic-tac-toe.git`
    
 2. Navigate to the project directory
 
-   `cd web_development_projects/tic-tac-toe`
+   `cd tic-tac-toe`
   
 4. Install dependencies
 
@@ -39,7 +39,3 @@ This is a simple Tic-Tac-Toe game built using React. It allows two players to pl
 ## Project Deployment
 
 The web-app is deployed [here](https://tic-tac-toe-vaiibhavgupta.vercel.app).
-
-
-
-
